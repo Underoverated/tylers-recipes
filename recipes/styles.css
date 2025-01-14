@@ -2,7 +2,15 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: #1C4E80;
     color: white;
-    text-align: center;
     padding: 0;
     margin: 0;
 }
+
+header{
+    text-align: center;
+}
+
+.heading{
+    text-align: center;
+}
+
